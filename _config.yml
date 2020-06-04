@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "dnguyen376@gatech.edu"
+      url: "dnguyen376@gatech.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://medium.com/yungcodes"
