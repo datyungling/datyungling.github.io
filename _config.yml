@@ -97,7 +97,7 @@ author:
   avatar           : "/images/bio-photo.jpg"
   bio              : "curious GaTech OMSA student"
   location         : "Japan"
-  email            : "dnguyen376@gatech.edu"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
